@@ -3,3 +3,4 @@
 *.pdf
 *.tmp
 /Artificial-Intelligence-Course
+homework2/data/mnist/mnist.pkl.gz
